@@ -1,0 +1,15 @@
+C:\Users\Pranto\source\repos\fundamentalCShrap\fundamentalCShrap\bin\Debug\net7.0\fundamentalCShrap.exe
+C:\Users\Pranto\source\repos\fundamentalCShrap\fundamentalCShrap\bin\Debug\net7.0\fundamentalCShrap.deps.json
+C:\Users\Pranto\source\repos\fundamentalCShrap\fundamentalCShrap\bin\Debug\net7.0\fundamentalCShrap.runtimeconfig.json
+C:\Users\Pranto\source\repos\fundamentalCShrap\fundamentalCShrap\bin\Debug\net7.0\fundamentalCShrap.dll
+C:\Users\Pranto\source\repos\fundamentalCShrap\fundamentalCShrap\bin\Debug\net7.0\fundamentalCShrap.pdb
+C:\Users\Pranto\source\repos\fundamentalCShrap\fundamentalCShrap\obj\Debug\net7.0\fundamentalCShrap.csproj.AssemblyReference.cache
+C:\Users\Pranto\source\repos\fundamentalCShrap\fundamentalCShrap\obj\Debug\net7.0\fundamentalCShrap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pranto\source\repos\fundamentalCShrap\fundamentalCShrap\obj\Debug\net7.0\fundamentalCShrap.AssemblyInfoInputs.cache
+C:\Users\Pranto\source\repos\fundamentalCShrap\fundamentalCShrap\obj\Debug\net7.0\fundamentalCShrap.AssemblyInfo.cs
+C:\Users\Pranto\source\repos\fundamentalCShrap\fundamentalCShrap\obj\Debug\net7.0\fundamentalCShrap.csproj.CoreCompileInputs.cache
+C:\Users\Pranto\source\repos\fundamentalCShrap\fundamentalCShrap\obj\Debug\net7.0\fundamentalCShrap.dll
+C:\Users\Pranto\source\repos\fundamentalCShrap\fundamentalCShrap\obj\Debug\net7.0\refint\fundamentalCShrap.dll
+C:\Users\Pranto\source\repos\fundamentalCShrap\fundamentalCShrap\obj\Debug\net7.0\fundamentalCShrap.pdb
+C:\Users\Pranto\source\repos\fundamentalCShrap\fundamentalCShrap\obj\Debug\net7.0\fundamentalCShrap.genruntimeconfig.cache
+C:\Users\Pranto\source\repos\fundamentalCShrap\fundamentalCShrap\obj\Debug\net7.0\ref\fundamentalCShrap.dll
